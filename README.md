@@ -1,3 +1,3 @@
-# project-voorbeeld Met Stan en Joris
+# project-voorbeeld. Van Stan en Joris
 
 In de browser aangepast
